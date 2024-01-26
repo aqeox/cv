@@ -22,12 +22,13 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Hassan Amin",
   initials: "Profile",
-  location: "Bukit Jelutong, Malaysia",
+  location: "Malaysia",
   locationLink: "https://www.google.com/maps/place/Wrocław",
-  about: "UI/UX DESIGNER",
+  about: "UI/UX CREATIVE DESIGNER",
   summary:
     "My job is to build your website so that it is functional and user-friendly",
-  avatarUrl: "https://avatars.githubusercontent.com/u/39194813?v=4",
+  avatarUrl:
+    "https://private-user-images.githubusercontent.com/39194813/299920738-3fbdfe9f-d2d4-4721-90cd-7fa8bf89b23a.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYyNTc4MTIsIm5iZiI6MTcwNjI1NzUxMiwicGF0aCI6Ii8zOTE5NDgxMy8yOTk5MjA3MzgtM2ZiZGZlOWYtZDJkNC00NzIxLTkwY2QtN2ZhOGJmODliMjNhLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNlQwODI1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODZhZjI2MGZmMDM5ZWRmMTBlNzVlNzVkZjA3MDJhNDBiOWVjZjI0N2E4ZDYzMDdiM2UyM2U2NjJhMzQ4MmRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SQh9ZX0TIooODa2fJ2cRy7rOIQaj7GlVXQQN2rDK_XI",
   personalWebsiteUrl: "https://youwdin.com",
   contact: {
     email: "youwdin@gmail.com",
@@ -66,11 +67,10 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Xchanging Malaysia (YTL Company)",
-      link: "https://parabol.co",
+      company: "Xchanging (DXC, YTL Company)",
+      link: "https://dxc.com/us/en/",
       badges: ["Remote"],
-      title: "UI/UX Designer",
-      logo: ParabolLogo,
+      title: "UI/UX CREATIVE DESIGNER",
       start: "2024",
       end: "Present",
       description:
@@ -78,10 +78,9 @@ export const RESUME_DATA = {
     },
     {
       company: "Bateriku",
-      link: "https://clevertech.biz",
+      link: "https://bateriku.com/",
       badges: ["Hybrid"],
       title: "UI/UX Designer",
-      logo: ClevertechLogo,
       start: "2023",
       end: "2023",
       description: "Worked with the Product team on new features",

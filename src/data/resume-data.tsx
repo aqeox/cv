@@ -72,9 +72,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "UI/UX CREATIVE DESIGNER",
       start: "2024",
-      end: "Present",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+      end: "Current",
+      description: "started migration from Emotion to Tailwind CSS and more. ",
     },
     {
       company: "Bateriku",
